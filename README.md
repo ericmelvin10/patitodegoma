@@ -27,4 +27,6 @@ Este proyecto se basa en el trabajo de otras personas:
 
 
 TODO: Actualmente no se aceptan combinaciones de más de 2 teclas simultàneas (modificador + otra tecla) por lo que teclas como control + alt + sup o control+shift+esc no funcionan.
+Se ha realizado un workarround que supone escribir estas combinaciones de forma especial en el payload.
+
 - permitir combinaciones de con 2 teclas modificadoras pulsadas.
