@@ -36,3 +36,6 @@ GUI-SHIFT
 CTRL-GUI
 ALT-GUI
 
+
+He utilizado el siguiente hardware:
+https://es.aliexpress.com/item/1005002928161736.html?spm=a2g0o.search0304.0.0.598f5ab4HTKoQq&algo_pvid=407746d5-00cd-43a1-a41d-55279969b1f5&algo_exp_id=407746d5-00cd-43a1-a41d-55279969b1f5-14
